@@ -1,12 +1,27 @@
-# Intro to Deep Learning
-Spring 2018 Deep Learning Workshop with ACM and AAAI
+## Neural Networks Workshop (Lessons 4-5)
 
-Workshop date: February 27, 2018
+**Online lessons:** 
+* [Lesson 4 (Neural Networks, Architecture)](http://caisplusplus.usc.edu/blog/curriculum/lesson4)
+* [Lesson 5 (Neural Networks, Training)](http://caisplusplus.usc.edu/blog/curriculum/lesson5)
 
-### Workshop Instructions:
-1. Complete the [environment setup instructions](http://caisplusplus.usc.edu/blog/curriculum/environment_setup)
-2. `Clone` this repository in your working directory
-3. Navigate/`cd` to the workshop directory
-4. Activate environment: `source activate caispp`
-5. Launch Jupyter Notebook: `jupyter notebook`
-6. Open `mnist-nn-incomplete.ipynb` and get started!
+Workshop date: March 19, 2018
+
+### Workshop Outline:
+1. Coding portion 1: MNIST Handwritten Digits (`mnist-nn-incomplete.ipynb`)
+2. Coding portion 2: Fashion-MNIST (`fashion-nn-incomplete.ipynb`)
+
+### Before Workshop:
+* Download repository files, add to your working directory
+* Navigate to workshop directory
+* Activate environment: `source activate caispp`
+* Install keras, if you haven't already : `pip install keras`
+* Install keras-tqdm: `pip install keras-tqdm`
+* Install ipywidgets: `conda install -c conda-forge ipywidgets`
+* Enable widgets: `jupyter nbextension enable --py --sys-prefix widgetsnbextension`
+* IMPORTANT: run this command `conda install nb_conda` so that jupyter notebook can use our conda env.
+* Launch jupyter notebook: `jupyter notebook`
+
+### After Workshop:
+1. Add your completed code to a repository on your own Github account
+2. Create a new "issue" in the repository
+2. Tag @raghav-maheshwari so that we can tag you off
