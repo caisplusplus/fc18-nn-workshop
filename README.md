@@ -1,14 +1,11 @@
-## Neural Networks Workshop (Lessons 4-5)
+## Neural Networks Workshop (Lessons 4)
 
 **Online lessons:** 
 * [Lesson 4 (Neural Networks, Architecture)](http://caisplusplus.usc.edu/blog/curriculum/lesson4)
-* [Lesson 5 (Neural Networks, Training)](http://caisplusplus.usc.edu/blog/curriculum/lesson5)
 
-Workshop date: March 19, 2018
+Workshop date: October 8, 2018
 
-### Workshop Outline:
-1. Coding portion 1: MNIST Handwritten Digits (`mnist-nn-incomplete.ipynb`)
-2. Coding portion 2: Fashion-MNIST (`fashion-nn-incomplete.ipynb`)
+Neural Networks Workshop for Fashion-MNIST Data! 
 
 ### Before Workshop:
 * Download repository files, add to your working directory
@@ -24,4 +21,4 @@ Workshop date: March 19, 2018
 ### After Workshop:
 1. Add your completed code to a repository on your own Github account
 2. Create a new "issue" in the repository
-2. Tag @raghav-maheshwari so that we can tag you off
+3. Tag `@shomikj`, `@gstenger98`, and/or `@bhahn16` so that we can check you off!
